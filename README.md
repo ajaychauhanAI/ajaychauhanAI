@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Chauhan
 
-<!--
-**ajaychauhanAI/ajaychauhanAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Data Science & Artificial Intelligence)  
+🏫 Babu Banarasi Das University, Lucknow  
+🔐 Focused on Secure Systems, Backend Logic & Scalable Web Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a disciplined BCA (DS & AI) student with a strong interest in:
+
+- System Design
+- Backend Development
+- Data Handling & Integrity
+- Security-Focused Architectures
+- Academic Workflow Automation
+
+I enjoy building structured, role-based, and data-driven systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- Python
+- Java
+- SQL
+
+### 📊 Data & Analytics
+- Descriptive Analytics
+- NoSQL
+- Data Handling
+
+### 🖥 Systems
+- Linux
+- Computer Networks
+- Information & Data Security
+
+### 🧰 Tools
+- Git & GitHub
+- Google Sheets
+- Google Apps Script
+- HTML & CSS
+
+---
+
+## 🔥 Highlighted Projects
+
+### 📍 Secure Student Portal
+Role-based academic management system with authentication and structured workflows.
+
+### 📍 Location-Based Attendance System
+Secure attendance validation with workflow tracking.
+
+### 📍 Restaurant Website (ADCA Project)
+Multi-page static website built during foundational learning phase.
+
+---
+
+## 📈 Academic Performance
+
+- SGPA 1st Semester: 8.85
+- SGPA 2nd Semester: 9.0
+- SGPA 3rd Semester: 9.14
+- Currently in 4th Semester
+
+---
+
+## 🎯 Currently Seeking
+
+- Internship Opportunities
+- Backend / Data Projects
+- System & Security Roles
+- Technical Collaborations
+
+---
+
+## 📫 Connect With Me
+
+📍 India  
+📧 ajaycha1232a@gmail.com  
+
+---
+
+> "Security-first thinking. Structured backend logic. Clean data handling."
