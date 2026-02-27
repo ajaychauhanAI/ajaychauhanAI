@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a disciplined BCA (DS & AI) student with a strong interest in:
+BCA (Data Science & AI) student focused on building secure, structured, and scalable backend systems.
 
 - System Design
 - Backend Development
@@ -47,7 +47,7 @@ I enjoy building structured, role-based, and data-driven systems.
 
 ## 🔥 Highlighted Projects
 
-### 📍 Secure Student Portal (https://academicportal2.vercel.app/)
+### 📍 [Secure Student Portal] (https://academicportal2.vercel.app/)
 Role-based academic management system with authentication and structured workflows.
 
 ### 📍 Location-Based Attendance System
