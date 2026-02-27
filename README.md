@@ -83,4 +83,4 @@ Multi-page static website built during foundational learning phase.
 
 ---
 
-> "Security-first thinking. Structured backend logic. Clean data handling."
+> "Secure by design. Structured by architecture. Driven by data integrity."
