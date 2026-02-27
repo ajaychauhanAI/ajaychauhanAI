@@ -47,13 +47,13 @@ I enjoy building structured, role-based, and data-driven systems.
 
 ## 🔥 Highlighted Projects
 
-### 📍 [Secure Student Portal] (https://academicportal2.vercel.app/)
+### 📍 **[Secure Student Portal] (https://academicportal2.vercel.app/)**
 Role-based academic management system with authentication and structured workflows.
 
 ### 📍 Location-Based Attendance System
 Secure attendance validation with workflow tracking.
 
-### 📍 Restaurant Website (ADCA Project)
+### 📍 **[Restaurant Website - ADCA Project] (https://ajaychauhanai.github.io/restaurant-website-adca/)**
 Multi-page static website built during foundational learning phase.
 
 ---
