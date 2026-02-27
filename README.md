@@ -47,7 +47,7 @@ I enjoy building structured, role-based, and data-driven systems.
 
 ## 🔥 Highlighted Projects
 
-### 📍 Secure Student Portal
+### 📍 Secure Student Portal ( https://academicportal2.vercel.app/ )
 Role-based academic management system with authentication and structured workflows.
 
 ### 📍 Location-Based Attendance System
