@@ -42,7 +42,7 @@ I enjoy building structured, role-based, and data-driven systems.
 - Git & GitHub
 - Google Sheets
 - Google Apps Script
-- HTML & CSS
+- HTML, CSS & JavaScript
 
 ---
 
