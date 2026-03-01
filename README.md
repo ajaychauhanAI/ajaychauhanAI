@@ -26,6 +26,7 @@ I enjoy building structured, role-based, and data-driven systems.
 - Python
 - Java
 - SQL
+- C 
 
 ### 📊 Data & Analytics
 - Descriptive Analytics
