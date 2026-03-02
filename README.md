@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ajay Chauhan
 
+-Backend-Focused Data Science Student | Building Secure, Role-Based Systems.
+
 🎓 BCA (Data Science & Artificial Intelligence)  
 🏫 Babu Banarasi Das University, Lucknow  
 🔐 Focused on Secure Systems, Backend Logic & Scalable Web Applications  
@@ -52,7 +54,7 @@ I enjoy building structured, role-based, and data-driven systems.
 Role-based academic management system with authentication and structured workflows.
 
 ### 📍 Location-Based Attendance System
-Secure attendance validation with workflow tracking.
+Location-based attendance validation using geofencing logic, role-based authentication, and backend verification workflows.
 
 ### 📍 **[Restaurant Website - ADCA Project] (https://ajaychauhanai.github.io/restaurant-website-adca/)**
 Multi-page static website built during foundational learning phase.
