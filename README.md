@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay Chauhan
 
--Backend-Focused Data Science Student | Building Secure, Role-Based Systems.
+- Backend-Focused Data Science Student | Building Secure, Role-Based Systems.
 
 🎓 BCA (Data Science & Artificial Intelligence)  
 🏫 Babu Banarasi Das University, Lucknow  
