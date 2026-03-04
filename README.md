@@ -104,7 +104,7 @@ Multi-page static website built during foundational learning phase.
 📧 ajaycha1232a@gmail.com  
 
 🌐 Portfolio  
-https://ajaychauhanai.github.io/portfolio/
+https://ajaychauhanAI.github.io/ajay-chauhan/
 
 ---
 
