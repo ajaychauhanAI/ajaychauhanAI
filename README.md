@@ -26,7 +26,7 @@ I enjoy building **structured, role-based, and data-driven systems.**
 ## 🌐 Portfolio
 
 🔗 **Portfolio Website**  
-[https://ajaychauhanAI.github.io/ajay-chauhan/]
+(https://ajaychauhanAI.github.io/ajay-chauhan/)
 
 Explore my projects, technical skills, and system architecture work.
 
