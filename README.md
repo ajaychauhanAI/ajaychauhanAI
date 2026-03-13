@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ajay Chauhan
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge" />
+<a href="https://github.com/ajaychauhanAI">
+<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge&label=Profile+Views"/>
+</a>
 </p>
 
 Backend-Focused Data Science Student  
