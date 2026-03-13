@@ -35,27 +35,39 @@ Explore my projects, technical skills, and system architecture work.
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-- Python  
-- Java  
-- SQL  
-- C  
+
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
+![C](https://img.shields.io/badge/C-Language-grey?style=for-the-badge&logo=c)
+
+---
 
 ### 📊 Data & Analytics
-- Descriptive Analytics  
-- NoSQL  
-- Data Handling  
+
+![Descriptive Analytics](https://img.shields.io/badge/Descriptive-Analytics-purple?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-Database-green?style=for-the-badge&logo=mongodb)
+![Data Handling](https://img.shields.io/badge/Data-Handling-blue?style=for-the-badge)
+
+---
 
 ### 🖥 Systems
-- Linux  
-- Computer Networks  
-- Information & Data Security  
+
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux)
+![Computer Networks](https://img.shields.io/badge/Computer-Networks-blue?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Data-Security-red?style=for-the-badge)
+
+---
 
 ### 🧰 Tools
-- Git & GitHub  
-- Google Sheets  
-- Google Apps Script  
-- HTML, CSS & JavaScript  
 
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-green?style=for-the-badge&logo=google-sheets)
+![Google Apps Script](https://img.shields.io/badge/Apps-Script-yellow?style=for-the-badge&logo=google)
+![HTML](https://img.shields.io/badge/HTML-Markup-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript)
 ---
 
 ## 🔥 Highlighted Projects
@@ -123,12 +135,17 @@ Multi-page static website built during foundational learning phase.
 
 ---
 
+## 📊 GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychauhanAI&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychauhanAI&layout=compact&theme=tokyonight)
+
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://ajaychauhanAI.github.io/ajay-chauhan" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-ajaychauhanAI-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Portfolio-ajaychauhanAI-orange?style=for-the-badge&logo=google-chrome">
 </a>
 
 <a href="https://www.linkedin.com/in/ajay-chauhan-9053893a3" target="_blank">
