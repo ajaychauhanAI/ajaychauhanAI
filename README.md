@@ -60,6 +60,31 @@ Explore my projects, technical skills, and system architecture work.
 
 ## 🔥 Highlighted Projects
 
+### 📍 Campus Service Request Management System *(Hackathon Project)*
+
+🔗 **Live Demo**  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ajaychauhanAI/campus-service-request-system)
+
+🏆 Built during a **University Hackathon**
+
+A **role-based service request management system** designed to streamline issue reporting and resolution within an institution.
+
+**Key Concepts**
+- Role-Based Access Control (Student / Department Admin / Super Admin)
+- Backend integration using **Google Apps Script**
+- Data storage and management using **Google Sheets**
+- Structured request workflow  
+  `Pending → In Progress → Resolved`
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- Google Apps Script
+- Google Sheets
+
+---
+
 ### 📍 Secure Student Portal
 https://academicportal2.vercel.app/
 
