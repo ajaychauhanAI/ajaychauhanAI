@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Ajay Chauhan
 
-<p align="center">
-<a href="https://github.com/ajaychauhanAI">
-<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge&label=Profile+Views"/>
-</a>
-</p>
-
 Backend-Focused Data Science Student  
 Building Secure, Role-Based & Scalable Systems.
 
@@ -80,8 +74,7 @@ Explore my projects, technical skills, and system architecture work.
 
 ### 📍 Campus Service Request Management System *(Hackathon Project)*
 
-🔗 **Live Demo**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ajaychauhanAI/campus-service-request-system)
+![Project Preview](https://raw.githubusercontent.com/ajaychauhanAI/campus-service-request-system/main/images/admin-dashboard.png)
 
 🏆 Built during a **University Hackathon**
 
@@ -141,36 +134,47 @@ Multi-page static website built during foundational learning phase.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychauhanAI&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychauhanAI&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajaychauhanAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychauhanAI&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychauhanAI&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaychauhanAI&theme=github-dark)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaychauhanAI&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Backend System Design
-- API Architecture
-- Secure Authentication Systems
-- Data Engineering Fundamentals
+- ⚙️ Backend System Design  
+- 🔌 API Architecture & Integration  
+- 🔐 Secure Authentication Systems  
+- 📊 Data Engineering Fundamentals  
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Backend System Development
-- Data Engineering
-- Secure System Architecture
-- Workflow Automation
-- Scalable Web Systems
-
+- 🏗 Backend System Development  
+- 📊 Data Engineering  
+- 🔐 Secure System Architecture  
+- ⚙️ Workflow Automation  
+- 🌐 Scalable Web Systems
+  
 ---
 
 ## 📫 Connect With Me
@@ -220,7 +224,9 @@ Multi-page static website built during foundational learning phase.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge&label=Profile+Views&color=blueviolet"/>
+<a href="https://github.com/ajaychauhanAI">
+<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge&label=Profile+Views"/>
+</a>
 </p>
 
 ---
