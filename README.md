@@ -25,10 +25,13 @@ I enjoy building **structured, role-based, and data-driven systems.**
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website**  
-https://ajaychauhanAI.github.io/ajay-chauhan/
-
 Explore my projects, technical skills, and system architecture work.
+
+<p align="center">
+<a href="https://ajaychauhanAI.github.io/ajay-chauhan" target="_blank">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-Visit%20Now-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -97,23 +100,50 @@ A **role-based service request management system** designed to streamline issue 
 ---
 
 ### 📍 Secure Student Portal
-https://academicportal2.vercel.app/
 
-Role-based academic management system with authentication and structured workflows.
+<p>
+<a href="https://academicportal2.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+A **role-based academic management system** designed to manage student academic workflows with authentication and structured access control.
+
+**Key Features**
+- Secure login system
+- Role-based access
+- Academic workflow management
+- Structured dashboard interface
 
 ---
 
 ### 📍 Location-Based Attendance System
 
-Location-based attendance validation using **geofencing logic, role-based authentication, and backend verification workflows.**
+A **geolocation-based attendance validation system** designed to verify physical presence using geofencing logic and backend validation.
+
+**Key Concepts**
+- Location verification
+- Role-based authentication
+- Secure attendance workflow
+- Backend validation logic
 
 ---
 
-### 📍 Restaurant Website - ADCA Project
-https://ajaychauhanai.github.io/restaurant-website-adca/
+### 📍 Restaurant Website – ADCA Project
 
-Multi-page static website built during foundational learning phase.
+<p>
+<a href="https://ajaychauhanai.github.io/restaurant-website-adca/">
+<img src="https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=google-chrome"/>
+</a>
+</p>
 
+A **multi-page responsive restaurant website** built during the foundational learning phase of web development.
+
+**Key Features**
+- Responsive design
+- Multi-page layout
+- Navigation system
+- UI-focused development
 ---
 
 ## 📈 Academic Performance
