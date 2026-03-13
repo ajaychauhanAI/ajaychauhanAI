@@ -78,7 +78,7 @@ Explore my projects, technical skills, and system architecture work.
 ### 📍 Campus Service Request Management System *(Hackathon Project)*
 
 <p>
-<a href="https://campus/">
+<a href="https://ajaychauhanai.github.io/campus-service-request-system/">
 <img src="https://img.shields.io/badge/Live-Demo-yellow?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -106,7 +106,7 @@ A **role-based service request management system** designed to streamline issue 
 ### 📍 Secure Student Portal
 
 <p>
-<a href="https://academicportal2.vercel.app/">
+<a href="https://academicportal2-idce.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
@@ -225,22 +225,6 @@ A **multi-page responsive restaurant website** built during the foundational lea
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajaycha1232a@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-ajaycha1232a%40gmail.com-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://wa.me/916386773934?text=Hello%20Ajay" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
-</a>
-
-<a href="https://t.me/AJAY" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram">
-</a>
-
-<a href="https://www.instagram.com/ajay_chauhan_._._/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-ajay__chauhan-purple?style=for-the-badge&logo=instagram">
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100030164265023" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook">
 </a>
 
 </p>
