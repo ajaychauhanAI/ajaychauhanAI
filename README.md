@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Ajay Chauhan
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge" />
+</p>
+
 Backend-Focused Data Science Student  
 Building Secure, Role-Based & Scalable Systems.
 
@@ -167,13 +171,6 @@ Multi-page static website built during foundational learning phase.
 
 ---
 
-## 💡 Developer Philosophy
-
-> "Secure by design. Structured by architecture. Driven by data integrity."
-![Visitor Count](https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge)
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -210,4 +207,18 @@ Multi-page static website built during foundational learning phase.
 
 ---
 
-> **"Secure by design. Structured by architecture. Driven by data integrity."**
+---
+
+---
+
+## 💡 Developer Philosophy
+
+<p align="center">
+<b>"Secure by design. Structured by architecture. Driven by data integrity."</b>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge&label=Profile+Views&color=blueviolet"/>
+</p>
+
+---
