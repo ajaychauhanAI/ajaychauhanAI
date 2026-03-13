@@ -77,7 +77,11 @@ Explore my projects, technical skills, and system architecture work.
 
 ### 📍 Campus Service Request Management System *(Hackathon Project)*
 
-![Project Preview](https://raw.githubusercontent.com/ajaychauhanAI/campus-service-request-system/main/images/admin-dashboard.png)
+<p>
+<a href="https://campus/">
+<img src="https://img.shields.io/badge/Live-Demo-yellow?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 🏆 Built during a **University Hackathon**
 
