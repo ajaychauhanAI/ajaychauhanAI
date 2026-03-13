@@ -247,10 +247,6 @@ A **multi-page responsive restaurant website** built during the foundational lea
 
 ---
 
----
-
----
-
 ## 💡 Developer Philosophy
 
 <p align="center">
