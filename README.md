@@ -140,6 +140,40 @@ Multi-page static website built during foundational learning phase.
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychauhanAI&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychauhanAI&layout=compact&theme=tokyonight)
 
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaychauhanAI&theme=github-dark)
+
+---
+
+## 📚 Currently Learning
+
+- Backend System Design
+- API Architecture
+- Secure Authentication Systems
+- Data Engineering Fundamentals
+
+---
+
+## 🎯 Areas of Interest
+
+- Backend System Development
+- Data Engineering
+- Secure System Architecture
+- Workflow Automation
+- Scalable Web Systems
+
+---
+
+## 💡 Developer Philosophy
+
+> "Secure by design. Structured by architecture. Driven by data integrity."
+![Visitor Count](https://komarev.com/ghpvc/?username=ajaychauhanAI&style=for-the-badge)
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
