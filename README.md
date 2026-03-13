@@ -128,7 +128,7 @@ Multi-page static website built during foundational learning phase.
 <p align="center">
 
 <a href="https://ajaychauhanAI.github.io/ajay-chauhan" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-ajaychauhanAI-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Portfolio-ajaychauhanAI-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/ajay-chauhan-9053893a3" target="_blank">
