@@ -148,6 +148,24 @@ A **multi-page responsive restaurant website** built during the foundational lea
 - Multi-page layout
 - Navigation system
 - UI-focused development
+  
+---
+
+### 💙 Chat Love Predictor
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-0ea5b7?style=for-the-badge)](https://ajaychauhanai.github.io/chat-s-prediction/)
+
+A browser-based WhatsApp chat analyzer that predicts relationship interaction signals using behavioral analytics.
+
+✨ Key Features:
+
+- 📊 Conversation analytics charts
+- ⚡ Reply time prediction
+- ❤️ Love theorem based interaction score
+- 🧠 Sentiment detection (emoji + Hinglish)
+- 📈 Interactive Chart.js visualization
+- 🔒 Fully browser-based (privacy friendly)
+
 ---
 
 ## 📈 Academic Performance
