@@ -78,8 +78,8 @@ Explore my projects, technical skills, and system architecture work.
 ### 📍 Campus Service Request Management System *(Hackathon Project)*
 
 <p>
-<a href="https://ajaychauhanai.github.io/campus-service-request-system/">
-<img src="https://img.shields.io/badge/Live-Demo-yellow?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ajaychauhanAI/campus-service-request-system">
+<img src="https://img.shields.io/badge/Repo-yellow?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
