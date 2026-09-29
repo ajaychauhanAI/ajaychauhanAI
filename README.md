@@ -260,7 +260,7 @@ A multi-page responsive website developed during the foundational phase of web d
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=ajaychauhanAI&photo_resize=150&revert=false&hide_border=false&hide_stroke=false&disabled_animations=false" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=ajaychauhanAI&theme=github_light&hide=forks%2Cprs_merged%2Cissues%2Ccontributed&photo_resize=150&photo_quality=100#gh-light-mode-only" alt="GitHub profile statistics">
 </p>
 
 ---
