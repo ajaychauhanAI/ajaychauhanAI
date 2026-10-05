@@ -121,7 +121,7 @@ Explore my analytics projects, dashboards, technical skills, and data-driven wor
 ## 🎬 Netflix Descriptive Analytics
 
 <p>
-<a href="https://ajaychauhanai.github.io/netflix_title_DA_group_project/">
+<a href="https://github.com/ajaychauhanAI/netflix_title_DA_group_project">
 <img src="https://img.shields.io/badge/Repo-Explore%20Project-yellow?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -171,7 +171,7 @@ A practical **Big Data Analytics project** built with the Hadoop ecosystem to pr
 ## 🗄️ MongoDB & NoSQL Analytics
 
 <p>
-<a href="https://ajaychauhanai.github.io/No_SQL-Project-Ajay_Chauhan/">
+<a href="https://github.com/ajaychauhanAI/No_SQL-Project-Ajay_Chauhan">
 <img src="https://img.shields.io/badge/Repo-Explore%20Project-yellow?style=for-the-badge&logo=github"/>
 </a>
 </p>
