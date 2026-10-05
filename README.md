@@ -60,7 +60,7 @@ My goal is to bridge the gap between **raw data and meaningful decisions** throu
 Explore my analytics projects, dashboards, technical skills, and data-driven work.
 
 <p align="center">
-<a href="https://ajaychauhanAI.github.io/ajay-chauhan" target="_blank">
+<a href="https://ajay-chauhan-jade.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-View%20Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
