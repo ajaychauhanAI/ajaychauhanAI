@@ -337,7 +337,7 @@ it is about understanding **what the data means and how it can support better de
 
 <p align="center">
 
-<a href="https://ajaychauhanAI.github.io/ajay-chauhan" target="_blank">
+<a href="https://ajay-chauhan-jade.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-ajaychauhanAI-orange?style=for-the-badge&logo=google-chrome"/>
 </a>
 
