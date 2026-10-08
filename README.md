@@ -241,7 +241,7 @@ A multi-page responsive website developed during the foundational phase of web d
 - **SGPA 1st Semester:** 8.85
 - **SGPA 2nd Semester:** 9.0
 - **SGPA 3rd Semester:** 9.14
-- **SGPA 3rd Semester:** 8.92
+- **SGPA 4th Semester:** 8.92
 - Currently in **5th Semester**
 
 ---
